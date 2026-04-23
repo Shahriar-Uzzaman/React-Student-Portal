@@ -5,6 +5,7 @@ import { ThemeProvider } from './contexts/ThemeContext';
 import Layout from './components/layout/Layout';
 import Dashboard from './pages/Dashboard';
 import Login from './pages/Login';
+import Signup from './pages/Signup';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/login" element={<Login />} />
+            <Route path="/signup" element={<Signup />} />
             <Route path="/" element={<Layout />}>
               <Route index element={<Dashboard />} />
               {/* Add more routes here later */}
