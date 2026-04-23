@@ -9,6 +9,11 @@ A modern ReactJS front-end application built with Vite and TailwindCSS for Daffo
 - Library Services & Payments Ledger
 - Announcements & Notices
 
+## Latest Updates (Main Branch)
+- Core layout and routing completed
+- Auth pages integration (Login, Signup)
+- Dashboard overview added
+
 ## How to Run
 
 1. **Install Dependencies:**
