@@ -14,6 +14,15 @@ A modern ReactJS front-end application built with Vite and TailwindCSS for Daffo
 - Auth pages integration (Login, Signup)
 - Dashboard overview added
 
+## Feature/Student-Pages Branch Features
+- User Profile Page with academic info
+- Courses listing and details
+- Course schedule management
+- Grade history and GPA tracking
+- Notifications center
+- Account settings and preferences
+- Security settings
+
 ## How to Run
 
 1. **Install Dependencies:**
